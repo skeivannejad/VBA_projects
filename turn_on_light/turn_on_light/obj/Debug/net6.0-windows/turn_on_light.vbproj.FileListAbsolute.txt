@@ -1,0 +1,17 @@
+D:\keivannejad\git project\turn_on_light\turn_on_light\bin\Debug\net6.0-windows\turn_on_light.exe
+D:\keivannejad\git project\turn_on_light\turn_on_light\bin\Debug\net6.0-windows\turn_on_light.deps.json
+D:\keivannejad\git project\turn_on_light\turn_on_light\bin\Debug\net6.0-windows\turn_on_light.runtimeconfig.json
+D:\keivannejad\git project\turn_on_light\turn_on_light\bin\Debug\net6.0-windows\turn_on_light.dll
+D:\keivannejad\git project\turn_on_light\turn_on_light\bin\Debug\net6.0-windows\turn_on_light.pdb
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.Form1.resources
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.vbproj.GenerateResource.cache
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.AssemblyInfoInputs.cache
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.AssemblyInfo.vb
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.dll
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\refint\turn_on_light.dll
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.pdb
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.genruntimeconfig.cache
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\ref\turn_on_light.dll
+D:\keivannejad\git project\turn_on_light\turn_on_light\obj\Debug\net6.0-windows\turn_on_light.Resources.resources
