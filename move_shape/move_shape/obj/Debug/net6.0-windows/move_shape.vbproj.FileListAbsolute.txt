@@ -1,0 +1,17 @@
+D:\keivannejad\git project\move_shape\move_shape\bin\Debug\net6.0-windows\move_shape.exe
+D:\keivannejad\git project\move_shape\move_shape\bin\Debug\net6.0-windows\move_shape.deps.json
+D:\keivannejad\git project\move_shape\move_shape\bin\Debug\net6.0-windows\move_shape.runtimeconfig.json
+D:\keivannejad\git project\move_shape\move_shape\bin\Debug\net6.0-windows\move_shape.dll
+D:\keivannejad\git project\move_shape\move_shape\bin\Debug\net6.0-windows\move_shape.pdb
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.Form1.resources
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.Resources.resources
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.vbproj.GenerateResource.cache
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.AssemblyInfoInputs.cache
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.AssemblyInfo.vb
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.dll
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\refint\move_shape.dll
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.pdb
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\move_shape.genruntimeconfig.cache
+D:\keivannejad\git project\move_shape\move_shape\obj\Debug\net6.0-windows\ref\move_shape.dll
