@@ -1,0 +1,16 @@
+D:\keivannejad\git project\counter\counter\bin\Debug\net7.0-windows\counter.exe
+D:\keivannejad\git project\counter\counter\bin\Debug\net7.0-windows\counter.deps.json
+D:\keivannejad\git project\counter\counter\bin\Debug\net7.0-windows\counter.runtimeconfig.json
+D:\keivannejad\git project\counter\counter\bin\Debug\net7.0-windows\counter.dll
+D:\keivannejad\git project\counter\counter\bin\Debug\net7.0-windows\counter.pdb
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.Form1.resources
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.vbproj.GenerateResource.cache
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.AssemblyInfoInputs.cache
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.AssemblyInfo.vb
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.dll
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\refint\counter.dll
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.pdb
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\counter.genruntimeconfig.cache
+D:\keivannejad\git project\counter\counter\obj\Debug\net7.0-windows\ref\counter.dll
