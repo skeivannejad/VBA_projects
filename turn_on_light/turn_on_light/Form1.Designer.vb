@@ -26,16 +26,18 @@ Partial Class Form1
         PicLightOn = New PictureBox()
         PicOff = New PictureBox()
         PicOn = New PictureBox()
+        Panel1 = New Panel()
         CType(PicLightOff, ComponentModel.ISupportInitialize).BeginInit()
         CType(PicLightOn, ComponentModel.ISupportInitialize).BeginInit()
         CType(PicOff, ComponentModel.ISupportInitialize).BeginInit()
         CType(PicOn, ComponentModel.ISupportInitialize).BeginInit()
+        Panel1.SuspendLayout()
         SuspendLayout()
         ' 
         ' PicLightOff
         ' 
         PicLightOff.Image = My.Resources.Resources.Off
-        PicLightOff.Location = New Point(271, 25)
+        PicLightOff.Location = New Point(28, 20)
         PicLightOff.Name = "PicLightOff"
         PicLightOff.Size = New Size(141, 237)
         PicLightOff.TabIndex = 0
@@ -44,7 +46,7 @@ Partial Class Form1
         ' PicLightOn
         ' 
         PicLightOn.Image = My.Resources.Resources._On
-        PicLightOn.Location = New Point(271, 25)
+        PicLightOn.Location = New Point(28, 20)
         PicLightOn.Name = "PicLightOn"
         PicLightOn.Size = New Size(141, 237)
         PicLightOn.TabIndex = 0
@@ -74,6 +76,15 @@ Partial Class Form1
         PicOn.TabStop = False
         PicOn.Visible = False
         ' 
+        ' Panel1
+        ' 
+        Panel1.Controls.Add(PicLightOn)
+        Panel1.Controls.Add(PicLightOff)
+        Panel1.Location = New Point(230, 3)
+        Panel1.Name = "Panel1"
+        Panel1.Size = New Size(200, 284)
+        Panel1.TabIndex = 2
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -81,11 +92,9 @@ Partial Class Form1
         BackColor = Color.Black
         BackgroundImageLayout = ImageLayout.None
         ClientSize = New Size(684, 450)
+        Controls.Add(Panel1)
         Controls.Add(PicOn)
         Controls.Add(PicOff)
-        Controls.Add(PicLightOn)
-        Controls.Add(PicLightOff)
-        Cursor = Cursors.Arrow
         DoubleBuffered = True
         Name = "Form1"
         RightToLeft = RightToLeft.Yes
@@ -94,6 +103,7 @@ Partial Class Form1
         CType(PicLightOn, ComponentModel.ISupportInitialize).EndInit()
         CType(PicOff, ComponentModel.ISupportInitialize).EndInit()
         CType(PicOn, ComponentModel.ISupportInitialize).EndInit()
+        Panel1.ResumeLayout(False)
         ResumeLayout(False)
     End Sub
 
@@ -101,4 +111,5 @@ Partial Class Form1
     Friend WithEvents PicLightOn As PictureBox
     Friend WithEvents PicOff As PictureBox
     Friend WithEvents PicOn As PictureBox
+    Friend WithEvents Panel1 As Panel
 End Class
