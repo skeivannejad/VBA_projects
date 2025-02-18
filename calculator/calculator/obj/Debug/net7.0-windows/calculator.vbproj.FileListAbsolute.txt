@@ -1,0 +1,16 @@
+D:\keivannejad\git project\calculator\calculator\bin\Debug\net7.0-windows\calculator.exe
+D:\keivannejad\git project\calculator\calculator\bin\Debug\net7.0-windows\calculator.deps.json
+D:\keivannejad\git project\calculator\calculator\bin\Debug\net7.0-windows\calculator.runtimeconfig.json
+D:\keivannejad\git project\calculator\calculator\bin\Debug\net7.0-windows\calculator.dll
+D:\keivannejad\git project\calculator\calculator\bin\Debug\net7.0-windows\calculator.pdb
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.Form1.resources
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.vbproj.GenerateResource.cache
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfoInputs.cache
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfo.vb
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.dll
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\refint\calculator.dll
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.pdb
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\calculator.genruntimeconfig.cache
+D:\keivannejad\git project\calculator\calculator\obj\Debug\net7.0-windows\ref\calculator.dll
