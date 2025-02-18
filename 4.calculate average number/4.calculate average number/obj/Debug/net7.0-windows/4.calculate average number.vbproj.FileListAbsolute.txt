@@ -1,0 +1,16 @@
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\bin\Debug\net7.0-windows\4.calculate average number.exe
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\bin\Debug\net7.0-windows\4.calculate average number.deps.json
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\bin\Debug\net7.0-windows\4.calculate average number.runtimeconfig.json
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\bin\Debug\net7.0-windows\4.calculate average number.dll
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\bin\Debug\net7.0-windows\4.calculate average number.pdb
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\_4.calculate_average_number.Form1.resources
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.vbproj.GenerateResource.cache
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.AssemblyInfoInputs.cache
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.AssemblyInfo.vb
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.dll
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\refint\4.calculate average number.dll
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.pdb
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\4.calculate average number.genruntimeconfig.cache
+D:\keivannejad\git project\4.calculate average number\4.calculate average number\obj\Debug\net7.0-windows\ref\4.calculate average number.dll
