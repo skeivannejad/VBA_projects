@@ -1,4 +1,9 @@
 ﻿Public Class Form1
+
+    Dim num1 As Double
+    Dim opr As String = "+"
+
+
     Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
         If TextBox1.Text = "0" Then
             TextBox1.Text = ""
@@ -70,4 +75,57 @@
         End If
         TextBox1.Text = TextBox1.Text + "3"
     End Sub
+
+    Private Sub ButtonClear_Click(sender As Object, e As EventArgs) Handles ButtonClear.Click
+        TextBox1.Text = "0"
+    End Sub
+
+    Private Sub ButtonSum_Click(sender As Object, e As EventArgs) Handles ButtonSum.Click
+        '+
+        num1 = TextBox1.Text
+        TextBox1.Text = "0"
+        opr = "+"
+    End Sub
+    Private Sub ButtonSub_Click(sender As Object, e As EventArgs) Handles ButtonSub.Click
+        '-
+        num1 = TextBox1.Text
+        TextBox1.Text = "0"
+        opr = "-"
+    End Sub
+
+    Private Sub ButtonMul_Click(sender As Object, e As EventArgs) Handles ButtonMul.Click
+        '*
+        num1 = TextBox1.Text
+        TextBox1.Text = "0"
+        opr = "*"
+    End Sub
+
+    Private Sub ButtonDiv_Click(sender As Object, e As EventArgs) Handles ButtonDiv.Click
+        '/
+        num1 = TextBox1.Text
+        TextBox1.Text = "0"
+        opr = "/"
+    End Sub
+    Private Sub ButtonResult_Click(sender As Object, e As EventArgs) Handles ButtonResult.Click
+        '=
+        Dim num2 As Double = TextBox1.Text
+        If opr = "+" Then
+            TextBox1.Text = num1 + num2
+        End If
+
+        If opr = "-" Then
+            TextBox1.Text = num1 - num2
+        End If
+
+        If opr = "*" Then
+            TextBox1.Text = num1 * num2
+        End If
+
+        If opr = "/" Then
+            TextBox1.Text = num1 / num2
+        End If
+
+    End Sub
+
+
 End Class
