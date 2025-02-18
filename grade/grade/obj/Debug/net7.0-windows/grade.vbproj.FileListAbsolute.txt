@@ -1,0 +1,16 @@
+D:\keivannejad\git project\grade\grade\bin\Debug\net7.0-windows\grade.exe
+D:\keivannejad\git project\grade\grade\bin\Debug\net7.0-windows\grade.deps.json
+D:\keivannejad\git project\grade\grade\bin\Debug\net7.0-windows\grade.runtimeconfig.json
+D:\keivannejad\git project\grade\grade\bin\Debug\net7.0-windows\grade.dll
+D:\keivannejad\git project\grade\grade\bin\Debug\net7.0-windows\grade.pdb
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.Form1.resources
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.vbproj.GenerateResource.cache
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.AssemblyInfoInputs.cache
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.AssemblyInfo.vb
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.dll
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\refint\grade.dll
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.pdb
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\grade.genruntimeconfig.cache
+D:\keivannejad\git project\grade\grade\obj\Debug\net7.0-windows\ref\grade.dll
