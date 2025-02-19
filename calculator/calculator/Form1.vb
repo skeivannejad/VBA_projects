@@ -111,17 +111,11 @@
         Dim num2 As Double = TextBox1.Text
         If opr = "+" Then
             TextBox1.Text = num1 + num2
-        End If
-
-        If opr = "-" Then
+        ElseIf opr = "-" Then
             TextBox1.Text = num1 - num2
-        End If
-
-        If opr = "*" Then
+        ElseIf opr = "*" Then
             TextBox1.Text = num1 * num2
-        End If
-
-        If opr = "/" Then
+        ElseIf opr = "/" Then
             TextBox1.Text = num1 / num2
         End If
 
