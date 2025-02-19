@@ -1,0 +1,16 @@
+D:\keivannejad\git project\find max & min\find max & min\bin\Debug\net7.0-windows\find max & min.exe
+D:\keivannejad\git project\find max & min\find max & min\bin\Debug\net7.0-windows\find max & min.deps.json
+D:\keivannejad\git project\find max & min\find max & min\bin\Debug\net7.0-windows\find max & min.runtimeconfig.json
+D:\keivannejad\git project\find max & min\find max & min\bin\Debug\net7.0-windows\find max & min.dll
+D:\keivannejad\git project\find max & min\find max & min\bin\Debug\net7.0-windows\find max & min.pdb
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find_max___min.Form1.resources
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.vbproj.GenerateResource.cache
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.GeneratedMSBuildEditorConfig.editorconfig
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.AssemblyInfoInputs.cache
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.AssemblyInfo.vb
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.vbproj.CoreCompileInputs.cache
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.dll
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\refint\find max & min.dll
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.pdb
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\find max & min.genruntimeconfig.cache
+D:\keivannejad\git project\find max & min\find max & min\obj\Debug\net7.0-windows\ref\find max & min.dll
